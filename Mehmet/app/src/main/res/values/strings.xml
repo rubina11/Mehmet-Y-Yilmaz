@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mehmet</string>
+    <string name="dayOfWritingLabel">Day of Writing</string>
+    <string name="allPostLabel">All Posts</string>
+    <string name="aboutTheAuthorLabel">About the Author</string>
+    <string name="contactUsLabel">Contact Us</string>
+    <string name="nameLabel">Mehmet Y. Yilmaz</string>
+    <string name="positionLabel">Journalist, Author</string>
+    <string name="urlLabel">www.hurriyet.com.tr</string>
+    <string name="readmoreLabel">Read More</string>
+</resources>
